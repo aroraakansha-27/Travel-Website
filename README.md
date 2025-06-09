@@ -19,12 +19,6 @@ A responsive travel website showcasing dream destinations with interactive featu
 - **Icons**: Font Awesome
 - **Hosting**: Netlify
 
-## 🚀 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aroraakansha-27/Travel-Website.git
-
 ## 📂 Project Structure
 
 📦 Travel-Website
@@ -39,6 +33,14 @@ A responsive travel website showcasing dream destinations with interactive featu
 │   ├── 📷 user2.png
 │   └── 📷 user3.png
 └── 📄 README.md
+
+
+## 🚀 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aroraakansha-27/Travel-Website.git
+
 
 
 
