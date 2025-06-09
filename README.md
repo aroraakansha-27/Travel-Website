@@ -26,18 +26,18 @@ A responsive travel website showcasing dream destinations with interactive featu
    git clone https://github.com/aroraakansha-27/Travel-Website.git
 
 📂 Project Structure
-Travel-Website/
-├── index.html 
-├── style.css 
-├── images/ 
-│ ├── logo.png 
-│ ├── maldives.png 
-│ ├── thailand.png
-│ ├── paris.jpg
-│ ├── user1.png 
-│ ├── user2.png
-│ └── user3.png
-└── README.md     
+📦 Travel-Website
+├── 📄 index.html
+├── 📄 style.css
+├── 📂 images
+│   ├── 📷 logo.png
+│   ├── 📷 maldives.png
+│   ├── 📷 thailand.png
+│   ├── 📷 paris.jpg
+│   ├── 📷 user1.png
+│   ├── 📷 user2.png
+│   └── 📷 user3.png
+└── 📄 README.md
 
 
 
