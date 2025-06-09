@@ -25,7 +25,7 @@ A responsive travel website showcasing dream destinations with interactive featu
    ```bash
    git clone https://github.com/aroraakansha-27/Travel-Website.git
 
-📂 Project Structure
+##📂 Project Structure
 📦 Travel-Website
 ├── 📄 index.html
 ├── 📄 style.css
